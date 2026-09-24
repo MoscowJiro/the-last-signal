@@ -3,7 +3,7 @@
 > **Original Sci-Fi Visual Development & Cinematic Concept Project**
 
 <p align="center">
-  <img src="assets/hero-arrival.jpg" width="100%" alt="THE LAST SIGNAL — NAOS-06">
+  <img src="assets/arrival.png" width="100%" alt="THE LAST SIGNAL — NAOS-06">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_GITHUB_PAGES_URL">
+  <a href="https://moscowjiro.github.io/the-last-signal/">
     <strong>VIEW FULL CASE STUDY →</strong>
   </a>
 </p>
@@ -45,7 +45,7 @@
 > *The original signal was received before it was transmitted.*
 
 <p align="center">
-  <img src="assets/signal-room.jpg" width="100%" alt="NAOS-06 Signal Room">
+  <img src="assets/signalroom.png" width="100%" alt="NAOS-06 Signal Room">
 </p>
 
 ---
@@ -65,8 +65,8 @@
 所有异常都发生在一个仍然保持物理可信度的世界中。
 
 <p align="center">
-  <img src="assets/structural-cutaway.jpg" width="49%" alt="NAOS-06 Structural Cutaway">
-  <img src="assets/material-master.jpg" width="49%" alt="NAOS-06 Material Study">
+  <img src="assets/cutaway.png" width="49%" alt="NAOS-06 Structural Cutaway">
+  <img src="assets/material.png" width="49%" alt="NAOS-06 Material Study">
 </p>
 
 ---
@@ -88,8 +88,8 @@ NAOS-06 表面是一座约建于 **1998–2004** 年间的 Offshore Oceanographi
 **Normal → Unusual → Impossible → Intimate**
 
 <p align="center">
-  <img src="assets/the-shaft.jpg" width="49%" alt="THE SHAFT">
-  <img src="assets/b12-listening-room.jpg" width="49%" alt="B12 Listening Room">
+  <img src="assets/shaft.png" width="49%" alt="THE SHAFT">
+  <img src="assets/b12.png" width="49%" alt="B12 Listening Room">
 </p>
 
 ---
@@ -115,7 +115,7 @@ Received Recording 中还存在一个 Scheduled Output 中没有出现的微弱 
 因此，它并不是一个完全相同的“回声”。
 
 <p align="center">
-  <img src="assets/the-recorder.jpg" width="100%" alt="THE RECORDER — Signal Evidence">
+  <img src="assets/recorder_master.png" width="100%" alt="THE RECORDER — Signal Evidence">
 </p>
 
 ---
@@ -133,8 +133,8 @@ Received Recording 中还存在一个 Scheduled Output 中没有出现的微弱 
 随后进行的 Deep-Ocean Survey 同样没有发现可以识别的 Physical Source。
 
 <p align="center">
-  <img src="assets/array-04.jpg" width="49%" alt="Hydrophone Array 04">
-  <img src="assets/the-echo.jpg" width="49%" alt="THE ECHO — Deep Ocean Survey">
+  <img src="assets/array.png" width="49%" alt="Hydrophone Array 04">
+  <img src="assets/echo.png" width="49%" alt="THE ECHO — Deep Ocean Survey">
 </p>
 
 > **They searched for a source. The ocean gave them nothing.**
@@ -166,8 +166,8 @@ Mara 被设计为 Civilian Scientific Field Researcher，而不是传统科幻�
 **ARRIVAL → CORRIDOR → SIGNAL ROOM → SHAFT → B12 → ARRAY → DEEP OCEAN → THE LAST SIGNAL**
 
 <p align="center">
-  <img src="assets/the-match.jpg" width="49%" alt="THE MATCH">
-  <img src="assets/the-last-signal.jpg" width="49%" alt="THE LAST SIGNAL">
+  <img src="assets/match.png" width="49%" alt="THE MATCH">
+  <img src="assets/last_clean.png" width="49%" alt="THE LAST SIGNAL">
 </p>
 
 > **The transmission stopped. The signal did not.**
@@ -220,7 +220,7 @@ Mara 被设计为 Civilian Scientific Field Researcher，而不是传统科幻�
 完整项目包含 **16页 Visual Development Case Study**，覆盖 Narrative Premise、Worldbuilding、Facility Design、Character Direction、Signal System、Deep-Ocean Investigation、Production Workflow 与 Final Keyframes。
 
 <p align="center">
-  <a href="YOUR_GITHUB_PAGES_URL">
+  <a href="https://moscowjiro.github.io/the-last-signal/">
     <strong>VIEW THE FULL 16-PAGE CASE STUDY →</strong>
   </a>
 </p>
